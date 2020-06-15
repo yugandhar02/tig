@@ -1,0 +1,29 @@
+# Tool configurations
+.editorconfig
+.prettierignore
+.eslintignore
+package.json
+yarn.lock
+
+# Fonts
+*.eot
+*.ttf
+*.woff
+
+# Images
+*.gif
+*.ico
+*.jpg
+*.png
+*.svg
+
+# Miscellaneous
+*.sh
+*.txt
+.cache
+.DS_Store
+.gitignore
+.gitattributes
+
+# Build output
+dist/

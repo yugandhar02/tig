@@ -1,0 +1,16 @@
+{
+  "name": "Tig",
+  "version": "0.0.1",
+  "description": "Reverse engineered git",
+  "main": "index.js",
+  "repository": "https://github.com/yugandhar02/tig.git",
+  "author": "yugandhar02 <yugandhar.kamdi@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "7.2.0",
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "prettier": "2.0.5"
+  }
+}

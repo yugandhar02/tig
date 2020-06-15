@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vs
+.vscode
+.atom
+.tern-project
+*.sublime-workspace
+*.sublime-project
+node_modules/
+dist/
