@@ -7,10 +7,19 @@
   "author": "yugandhar02 <yugandhar.kamdi@gmail.com>",
   "license": "MIT",
   "private": false,
+  "bin": {
+    "tig": "./bin/tig.js"
+  },
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint '*/**/*.js' --quiet --fix"
+  },
   "devDependencies": {
     "eslint": "7.2.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-prettier": "3.1.4",
     "prettier": "2.0.5"
+  },
+  "dependencies": {
+    "commander": "5.1.0"
   }
 }
